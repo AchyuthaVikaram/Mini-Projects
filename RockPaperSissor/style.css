@@ -1,0 +1,52 @@
+*{
+    padding:0;
+}
+body{
+    text-align: center;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+    gap:3rem;
+}
+.item{
+    height: 200px;
+    width: 200px;
+    /* margin-right: 1rem;
+    margin-bottom: 1rem; */
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+.item:hover{
+    border: 5px solid black;
+}
+.marks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+.marks p{
+    margin-top: 0;
+    margin-bottom:0; 
+    font-size: 2rem;
+    margin-left:1.5rem;
+    opacity: 0.8;
+}
+#userScore,#compScore{
+    font-size: 4rem;
+}
+.Preview{
+    background-color: black;
+    font-size: 1.1rem;
+    padding: 0.65rem;
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    margin-top: 3.5rem;
+}
+.click{
+    opacity: 0.5;
+}

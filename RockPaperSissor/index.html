@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock Paper Scissors</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Rock Paper Scissors</h1>
+    <div class="game">
+       <div class="item" id="rock" style="background-image: url('rock.png'); background-position: center;background-size: cover;"></div>
+       <div class="item" id="paper" style="background-image: url('paper.png');background-size: cover; background-position: center;"></div>           
+       <div class="item" id="scissor" style="background-image: url('scissors.png');background-size: cover; background-position: center;"></div>
+    </div>
+    <div class="marks">
+        <div class="person">
+            <p id="userScore">0</p>
+            <p>You</p>
+        </div>
+        <div class="Computer">
+            <p id="compScore">0</p>
+            <p>Computer</p>
+        </div>
+    </div>
+    <button class="Preview">Play Your Move</button>
+    <script src="app.js"></script>
+</body>
+</html>
