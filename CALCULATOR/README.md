@@ -1,3 +1,26 @@
-# Calculator Project
+# Project Title: Simple Calculator
 
-This is a mini project of a Basic Calculator using HTML CSS JS
+Description:
+This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. The calculator provides basic arithmetic operations such as addition, subtraction, multiplication, and division. It features a clean and intuitive user interface designed with HTML and CSS, while the functionality is implemented using JavaScript.
+
+# Features:
+
+Addition
+Subtraction
+Multiplication
+Division
+
+# Technologies Used:
+HTML 
+CSS 
+JavaScript 
+
+# How to Use:
+
+Clone this repository to your local machine.
+Open the index.html file in your web browser.
+Use the buttons to input numbers and perform calculations.
+Enjoy calculating with this simple calculator!
+
+# Contributing:
+Contributions are welcome! Feel free to fork this repository, make changes, and submit a pull request.
