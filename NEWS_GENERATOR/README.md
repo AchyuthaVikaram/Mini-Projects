@@ -15,6 +15,9 @@ HTML5
 CSS
 JavaScript
 API integration for fetching news data
+
+![Image OF PAGE](https://github.com/user-attachments/assets/c7248b81-2101-49b0-a351-f8c633bc7e7a)
+
 # How to Use:
 
 Clone this repository to your local machine.
