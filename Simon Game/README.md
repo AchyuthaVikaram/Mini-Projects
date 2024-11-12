@@ -14,6 +14,8 @@ Real score display
 HTML5
 CSS
 JavaScript
+
+[Video](https://github.com/user-attachments/assets/1c15fc06-aaed-471f-9da5-cda46f8ed97c)
 # Instruction to Play
 Watch & Remember: Observe the sequence of colors and sounds.  
 Repeat: Click the buttons in the same order as shown.  
