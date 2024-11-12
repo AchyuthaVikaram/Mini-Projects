@@ -16,6 +16,7 @@ HTML5
 CSS
 JavaScript
 
+[Video](https://github.com/user-attachments/assets/8b0d1d12-840f-4f4f-b9ae-8f0cbe90d9b4)
 # How to Play:
 Clone this repository to your local machine.
 Open the index.html file in your web browser.
