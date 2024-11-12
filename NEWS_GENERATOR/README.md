@@ -27,8 +27,7 @@ Enter keywords (e.g., "AI," "Elon Musk," "Web," Tesla," "apple,"etc.) into the i
 Press the "Search" button to fetch news articles related to the input keywords.
 View the generated news articles as cards on the screen.
 Click on any card to read the entire details about that specific news article.
-# Screenshot:
-![Web Image]("getNews.png")
+
 
 
 # Contributing:
