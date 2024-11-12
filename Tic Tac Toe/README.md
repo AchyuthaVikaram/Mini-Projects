@@ -14,6 +14,9 @@ Restart game functionality
 HTML5
 CSS
 JavaScript
+
+
+[Video](https://github.com/user-attachments/assets/62772d90-365e-4687-a92a-78c87fccd492)
 # How to Play:
 
 Clone this repository to your local machine.
